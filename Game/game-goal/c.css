@@ -1,0 +1,16 @@
+
+
+section{
+  width: 600px;
+  height: 600px;
+  color: rgb(35, 37, 37);
+  min-height: 70vh;
+  background-color: rgba(242, 243, 240, 0.9);
+  box-shadow: 10px 20px 10px;
+ 
+    border-radius: 15px;
+  
+  flex-direction: column;
+
+}
+
