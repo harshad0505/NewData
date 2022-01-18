@@ -1,5 +1,7 @@
 {
+
   "name": "my-app",
+  "age":20,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
